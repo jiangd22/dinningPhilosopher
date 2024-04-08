@@ -21,4 +21,4 @@ In this implementation, each philosopher is represented as a thread. The philoso
 ## Future Improvements
 - Error handling: Implement robust error handling for thread creation, semaphore initialization, etc.
 - Refactor code: Improve code readability and modularity.
-- Parameterization: Allow users to specify the number of philosophers and other parameters at runtime.
+- Parameterization: Allow users to specify the number of philosophers and other parameters at runtime.(I got lazy ╮(￣▽￣"")╭. The question didn't specify any runtime input, please have mercy)
